@@ -3,24 +3,25 @@ title: Forty
 subtitle: by HTML5 UP
 email: cuic3@mail2.sysu.edu.cn
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: www.cucui.com #  the base hostname & protocol for your site
+baseurl: "/homepage" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Sun Yat-Sen University
+city: Guangzhou
+state: 
+zip_code: 510006
+country: P. R. China
+phone: (+86) 18502211960
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
+reserachgate_url: https://www.researchgate.net/profile/Cu_Cui
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/CuiCu-618
 gitlab_url: #https://gitlab.com/andrewbanchich
 googleplus_url: #https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: #https://instagram.com
