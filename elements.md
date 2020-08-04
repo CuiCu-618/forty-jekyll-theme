@@ -67,20 +67,10 @@ nav-menu: true
 
 <!-- Table -->
 <h2>Languages</h2>
-<div class="table-wrapper">
-	<table>
-		<tbody>
-			<tr>
-				<td>English</td>
-				<td>B2 level</td>
-			</tr>
-			<tr>
-				<td>Chinese</td>
-				<td>Native language</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
+<ul class="alt">
+	<li>English: B2 level</li>
+	<li>Chinese: Native language</li>
+</ul>
 
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
