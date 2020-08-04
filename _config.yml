@@ -2,9 +2,9 @@
 title: CuCui
 subtitle: Home page
 email: cuic3@mail2.sysu.edu.cn
-description: I am a master student at Sun Yat-Sen University in Computational Mathematics. <br /> 
-             My study is in the area of Numerical Solution of Partial Difference Equations <br /> 
-             with main focus on Stable Generalized Finite Element Method.
+description: I am a master student at Sun Yat-Sen <br /> University in Computational Mathematics. 
+             #My study is in the area of Numerical Solution of Partial Difference Equations <br /> 
+             #with main focus on Stable Generalized Finite Element Method.
 baseurl: "/homepage" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
