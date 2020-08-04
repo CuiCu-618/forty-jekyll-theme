@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Hi, my name is Cu Cui'
 description: null
-image: assets/IMG_3809.jpg
+image: null
 author: null
 show_tile: false
 ---
