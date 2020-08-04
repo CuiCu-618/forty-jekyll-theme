@@ -52,6 +52,36 @@ nav-menu: true
 	</table>
 </div>
 		
+<!-- Table -->
+<h2>Publications</h2>
+<ol>
+	<li><b>C. Cui</b>, Q. Zhang. Stable generalized finite element methods for elasticity crack problems. <i>Int J Numer Methods Eng</i>. 2020; 121: 3066-3082. <a href="https://doi.org/10.1002/nme.6347">https://doi.org/10.1002/nme.6347</a></li>
+</ol>
+
+<!-- Table -->
+<h2>Research Interests</h2>
+<ul>
+	<li>Stable Generalized Finite Element Method</li>
+	<li>Computational Science and Engineering</li>
+</ul>
+
+<!-- Table -->
+<h2>Languages</h2>
+<div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td>English</td>
+				<td>B2 level</td>
+			</tr>
+			<tr>
+				<td>Chinese</td>
+				<td>Native language</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
