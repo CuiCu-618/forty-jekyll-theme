@@ -13,11 +13,45 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Cu Cui</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">Education</h2>
+<ul>
+	<li>M.S. in Computational Mathematics, Sun Yat-sen University, Guangzhou, current</li>
+	<li>B.S. in Mathematics and Applied Mathematics, China University of Petroleum-Beijing, Beijing, 2018</li>
+</ul>
+
+<!-- Table -->
+<h2>Honors and Awards</h2>
+<div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td>July 2018</td>
+				<td>Excellent Graduate in Beijing. Ranked 2nd in the Department of Mathematics</td>
+			</tr>
+			<tr>
+				<td>July 2018</td>
+				<td>Outstanding Undergraduate Thesis. Ranked 1st in the Department of Mathematics</td>
+			</tr>
+			<tr>
+				<td>Sept 2016</td>
+				<td> Excellent Student Cadre, in the Department of Mathematics</td>
+			</tr>
+			<tr>
+				<td>Sept 2015</td>
+				<td>China Petroleum Scholarship. Ranked 1st in the Department of Mathematics </td>
+			</tr>
+			<tr>
+				<td>May  2015</td>
+				<td>3rd Place. China University of Petroleum(Beijing) ”Petroleum Cup” football match</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+		
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
