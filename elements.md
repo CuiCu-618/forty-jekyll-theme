@@ -89,6 +89,20 @@ nav-menu: true
 	</table>
 </div>
 
+<!-- Table -->
+<h2>Summer and short courses</h2>
+<ul>
+	<li>5-day course Finite element methods in scientific computing, Beijing, 2018</li>
+	<li>The 3rd “Summer School of Numerical Methods and Theory of Partial Differential Equations”, Chengdu, 2019</li>
+	<li>Finite Element and Deep Neural Networks (Online), 2020</li>
+</ul>
+
+<!-- Table -->
+<h2>Extracurricular Activities</h2>
+<ul>
+	<li>China University of Petroleum (Beijing), Faculty of Science, Party branch ”Red 1 + 1” co-construction activity, Beijing, 2016</li>
+	<li>Water resources protection social practice activity, Tianjin-Yueyang, 2016</li>
+</ul>
 
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
