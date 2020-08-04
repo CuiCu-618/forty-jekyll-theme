@@ -68,9 +68,27 @@ nav-menu: true
 <!-- Table -->
 <h2>Languages</h2>
 <ul class="alt">
-	<li>English: &nbsp;B2 level</li>
+	<li>English: &ensp;B2 level</li>
 	<li>Chinese: &nbsp;Native language</li>
 </ul>
+
+<!-- Table -->
+<h2>Computer Skills</h2>
+<div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td>Basic Knowledge:</td>
+				<td>MPI, Doxygen, Linux, Python, PETSc</td>
+			</tr>
+			<tr>
+				<td>Intermediate Knowledge:</td>
+				<td>C/C++, Matlab, LaTeX</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
 
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
