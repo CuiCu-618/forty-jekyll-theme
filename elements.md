@@ -79,11 +79,11 @@ nav-menu: true
 		<tbody>
 			<tr>
 				<td>Basic Knowledge:</td>
-				<td align=left>MPI, Doxygen, Linux, Python, PETSc</td>
+				<td align="left"> MPI, Doxygen, Linux, Python, PETSc</td>
 			</tr>
 			<tr>
 				<td>Intermediate Knowledge:</td>
-				<td align=left>C/C++, Matlab, LaTeX</td>
+				<td align="left"> C/C++, Matlab, LaTeX</td>
 			</tr>
 		</tbody>
 	</table>
