@@ -108,6 +108,4 @@ nav-menu: true
 	<li><a href="cv_9.pdf" class="button icon fa-download">Curriculum Vitae</a></li>
 </ul>
 
-</section>
-
 </div>
