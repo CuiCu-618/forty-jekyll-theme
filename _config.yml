@@ -22,6 +22,7 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
+researchgate_url: https://www.researchgate.net/profile/Cu_Cui
 github_url: https://github.com/CuiCu-618
 gitlab_url: #https://gitlab.com/andrewbanchich
 googleplus_url: #https://plus.google.com/u/0/+AndrewBanchich
