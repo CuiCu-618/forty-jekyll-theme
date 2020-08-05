@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description: 'Education Honors Awards Publication'
+title: Curriculum Vitae
+description: 'Brief CV'
 image: assets/CV_BC.jpg
 nav-menu: true
 ---
