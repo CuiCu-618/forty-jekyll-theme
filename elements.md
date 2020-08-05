@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: About
 description: 'Brief CV'
 image: assets/CV_BC.jpg
 nav-menu: true
