@@ -1,6 +1,6 @@
 ---
 title: Research
-layout: Research
+layout: landing
 description: 'Research Courses and Interests'
 image: assets/res_bc.jpg
 nav-menu: true
