@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="assets/Research.jpg" class="image">
-			<img src="{% link assets/Research.jpg %}" alt="" data-position="center center" />
+			<img src="assets/Research.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
