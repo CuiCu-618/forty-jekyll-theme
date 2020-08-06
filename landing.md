@@ -31,7 +31,7 @@ nav-menu: true
 					<h3>Stable Generalized Finite Element Method (SGFEM)</h3>
 				</header>
 				<p>Generalized or eXtended finite element methods (GFEM/XFEM) for crack problems have been studied extensively. A GFEM/XFEM is referred to as stable GFEM (SGFEM) if it reaches optimal convergence orders, and its SCN is of same order as that of FEM. In this article we propose the SGFEM for elasticity crack problems; both extrinsic and DOF-gathering schemes are addressed. <b>My main work is numerical experiments
-which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal convergence and have the SCNs of same order as in the FEM<b>. We also propose a SGFEM for 3D crack problems. The numerical experiments for both the planar and fully 3D crack problems are executed to verified efficiency of the proposed SGFEM.</p>
+which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal convergence and have the SCNs of same order as in the FEM</b>. We also propose a SGFEM for 3D crack problems. The numerical experiments for both the planar and fully 3D crack problems are executed to verified efficiency of the proposed SGFEM.</p>
 				<ul class="actions">
 					<li><a href="https://doi.org/10.1002/nme.6347" class="button">Learn more</a></li>
 				</ul>
