@@ -50,7 +50,7 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 				<p>MPI (Message-Passing Interface) is a message-passing library interface specification. Here are some simple examples I have done. These pictures show the result of the case study. The aim of this case study is to write a complete MPI parallel program that does a very basic form of image processing. The case study is actually to do the reverse operation and construct the initial image given the edges. 
 				<ul>
 					<li><a href="http://archer.ac.uk/training/course-material/2014/07/MPI_Edi/">Material</a></li>
-					<a href="https://github.com/CuiCu-618/MPI">GitHub</a></li>
+					<li><a href="https://github.com/CuiCu-618/MPI">GitHub</a></li>
 				</ul>
 				</p>
 				<ul class="actions">
