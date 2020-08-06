@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'Research Courses and Interests'
+description: 'Research and Interests'
 image: assets/res_bc.jpg
 nav-menu: true
 ---
@@ -45,9 +45,9 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>The Message Passing Interface (MPI)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>MPI (Message-Passing Interface) is a message-passing library interface specification. The aim of this case study is to write a complete MPI parallel program that does a very basic form of image processing. The case study is actually to do the reverse operation and construct the initial image given the edges.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
