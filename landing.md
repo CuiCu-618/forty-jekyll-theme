@@ -39,7 +39,19 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="landing.html" class="image">
+			<div class="box alt">
+		<div class="row 50% uniform">
+			<div class="4u"><span class="image fit"><img src="assets/edge192x128.pgm" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/mpi_image192x128.pgm" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="assets/edge512x384.pgm" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/mpi_image512x384.pgm" alt="" /></span></div>
+			<!-- Break -->
+			<div class="4u"><span class="image fit"><img src="assets/edge768x768.pgm" alt="" /></span></div>
+			<div class="4u"><span class="image fit"><img src="assets/mpi_image768x768.pgm" alt="" /></span></div>
+		</div>
+		</div>
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
