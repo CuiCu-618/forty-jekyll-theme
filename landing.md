@@ -104,7 +104,7 @@ end
 		<header class="major">
 			<h2>PETSc</h2>
 		</header>
-		<p>PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations. It supports MPI, and GPUs through CUDA or OpenCL, as well as hybrid MPI-GPU parallelism. PETSc (sometimes called PETSc/Tao) also contains the Tao optimization software library. Through the DMDA interface, I solve the two-dimensional Poisson equation and the three-dimensional linear elasticity equation using Finite Element method.</p>
+		<p>PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations. It supports MPI, and GPUs through CUDA or OpenCL, as well as hybrid MPI-GPU parallelism. PETSc (sometimes called PETSc/Tao) also contains the Tao optimization software library. <b>Through the DMDA interface, I solve the two-dimensional Poisson equation and the three-dimensional linear elasticity equation using Finite Element method</b>.</p>
 		<ul class="actions">
 			<li><a href="https://github.com/CuiCu-618/petsc" class="button next">Learn more</a></li>
 		</ul>
