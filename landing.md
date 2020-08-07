@@ -80,7 +80,7 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 				<header class="major">
 					<h3>MATLAB</h3>
 				</header>
-				<p>MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. I have used MATLAB to program some numerical algorithms since the undergraduate level. In addition to the tutor’s program, the learning of finite element method programming also involves learning through the book <b>Programming the Finite Element Method</b>. I have implemented most of the program algorithms in the book with MATLAB. Also I use SPMD module to parallelize the current program for acceleration. </p>		
+				<p>MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. I have used MATLAB to program some numerical algorithms since the undergraduate level. In addition to the tutor’s program, the learning of finite element method programming also involves learning through the book <b>Programming the Finite Element Method</b>. <b>I have implemented most of the program algorithms in the book with MATLAB. Also I use SPMD module to parallelize the current program for acceleration</b>. </p>		
 <pre><code>
 spmd
     statements
@@ -102,11 +102,11 @@ end
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>PETSc</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations. It supports MPI, and GPUs through CUDA or OpenCL, as well as hybrid MPI-GPU parallelism. PETSc (sometimes called PETSc/Tao) also contains the Tao optimization software library. Through the DMDA interface, I solve the two-dimensional Poisson equation and the three-dimensional linear elasticity equation using Finite Element method.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://github.com/CuiCu-618/petsc" class="button next">Learn more</a></li>
 		</ul>
 	</div>
 </section>
