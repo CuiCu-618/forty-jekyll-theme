@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+title: Contact
+description: contact and links
+image: assets/contact_BC.jpg
 nav-menu: true
 ---
 
