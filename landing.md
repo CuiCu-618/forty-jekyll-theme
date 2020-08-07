@@ -56,6 +56,7 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<style>a{TEXT-DECORATION:none}</style> 
 					<h3>The Message Passing Interface (MPI)</h3>
 				</header>
 				<p>MPI (Message-Passing Interface) is a message-passing library interface specification. Here are some simple examples I have done. These pictures show the result of the case study. The aim of this case study is to write a complete MPI parallel program that does a very basic form of image processing. The case study is actually to do the reverse operation and construct the initial image given the edges. 
@@ -78,6 +79,7 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 		<div class="content">
 			<div class="inner">
 				<header class="major">
+					<style>a{TEXT-DECORATION:none}</style> 
 					<h3>MATLAB</h3>
 				</header>
 				<p>MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. I have used MATLAB to program some numerical algorithms since the undergraduate level. In addition to the tutor’s program, the learning of finite element method programming also involves learning through the book <b>Programming the Finite Element Method</b>. <b>I have implemented most of the program algorithms in the book with MATLAB. Also I use SPMD module to parallelize the current program for acceleration</b>. </p>		
