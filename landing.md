@@ -65,21 +65,74 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 				</ul>
 				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/CuiCu-618" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" />
+			<div class="box alt">
+				<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="times_for_fixed_nel_129 copy.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="times_for_proc_40 copy.jpg" alt="" /></span></div>
+				</div>
+			</div>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>MATLAB</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. I have used MATLAB to program some numerical algorithms since the undergraduate level. In addition to the tutor’s program, the learning of finite element method programming also involves learning through the book <b>Programming the Finite Element Method</b>. I have implemented most of the program algorithms in the book with MATLAB. Also I use SPMD module to parallelize the current program for acceleration. </p>
+				<div class="table-wrapper">
+	<table>
+		<thead>
+			<tr>
+				<th>Number of processors</th>
+				<th>Total time (s)</th>
+				<th>speedup</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>1</td>
+				<td>2699.8</td>
+				<td>-</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>1312.0</td>
+				<td>2.05</td>
+			</tr>
+			<tr>
+				<td>4</td>
+				<td>714.7</td>
+				<td>3.78</td>
+			</tr>
+			<tr>
+				<td>8</td>
+				<td>331.5</td>
+				<td>8.14</td>
+			</tr>
+			<tr>
+				<td>16</td>
+				<td>123.9</td>
+				<td>21.78</td>
+			</tr>
+			<tr>
+				<td>32</td>
+				<td>54.3</td>
+				<td>49.70</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+<pre><code>
+spmd
+    statements
+end
+</code></pre>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
