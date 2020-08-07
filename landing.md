@@ -72,13 +72,14 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<div class="box alt">
+			<img src="assets/times_for_fixed_nel_129 copy.jpg" alt="" />
+			<img src="assets/times_for_proc_40 copy.jpg" alt="" />
+<!-- 			<div class="box alt">
 				<div class="">
 					<div class="4u"><span class="image fit"><img src="assets/times_for_fixed_nel_129 copy.jpg" alt="" /></span></div>
-<!-- 					 -->
 					<div class="4u"><span class="image fit"><img src="assets/times_for_proc_40 copy.jpg" alt="" /></span></div>
 				</div>
-			</div>
+			</div> -->
 		</a>
 		<div class="content">
 			<div class="inner">
