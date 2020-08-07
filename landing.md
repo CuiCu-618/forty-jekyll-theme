@@ -74,8 +74,8 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 		<a href="generic.html" class="image">
 			<div class="box alt">
 				<div class="row 50% uniform">
-					<div class="4u"><span class="image fit"><img src="times_for_fixed_nel_129 copy.jpg" alt="" /></span></div>
-					<div class="4u"><span class="image fit"><img src="times_for_proc_40 copy.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/times_for_fixed_nel_129 copy.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/times_for_proc_40 copy.jpg" alt="" /></span></div>
 				</div>
 			</div>
 		</a>
@@ -84,55 +84,16 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 				<header class="major">
 					<h3>MATLAB</h3>
 				</header>
-				<p>MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. I have used MATLAB to program some numerical algorithms since the undergraduate level. In addition to the tutor’s program, the learning of finite element method programming also involves learning through the book <b>Programming the Finite Element Method</b>. I have implemented most of the program algorithms in the book with MATLAB. Also I use SPMD module to parallelize the current program for acceleration. </p>
-				<div class="table-wrapper">
-	<table>
-		<thead>
-			<tr>
-				<th>Number of processors</th>
-				<th>Total time (s)</th>
-				<th>speedup</th>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-				<td>1</td>
-				<td>2699.8</td>
-				<td>-</td>
-			</tr>
-			<tr>
-				<td>2</td>
-				<td>1312.0</td>
-				<td>2.05</td>
-			</tr>
-			<tr>
-				<td>4</td>
-				<td>714.7</td>
-				<td>3.78</td>
-			</tr>
-			<tr>
-				<td>8</td>
-				<td>331.5</td>
-				<td>8.14</td>
-			</tr>
-			<tr>
-				<td>16</td>
-				<td>123.9</td>
-				<td>21.78</td>
-			</tr>
-			<tr>
-				<td>32</td>
-				<td>54.3</td>
-				<td>49.70</td>
-			</tr>
-		</tbody>
-	</table>
-</div>
+				<p>MATLAB is a multi-paradigm numerical computing environment and proprietary programming language developed by MathWorks. I have used MATLAB to program some numerical algorithms since the undergraduate level. In addition to the tutor’s program, the learning of finite element method programming also involves learning through the book <b>Programming the Finite Element Method</b>. I have implemented most of the program algorithms in the book with MATLAB. Also I use SPMD module to parallelize the current program for acceleration. </p>		
 <pre><code>
 spmd
     statements
 end
 </code></pre>
+				<ul>
+					<li><a href="https://github.com/CuiCu-618/matlab_version">Programming the Finite Element Method Code</a></li>
+					<li><a href="https://www.mathworks.com/help/parallel-computing/spmd.html?s_tid=srchtitle">SPMD</a></li>
+				</ul>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
