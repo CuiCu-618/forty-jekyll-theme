@@ -41,17 +41,17 @@ which demonstrate that the proposed SGFEM and DOF-gathering SGFEM are of optimal
 	<section>
 		<a href="landing.html" class="image">
 			<div class="box alt">
-		<div class="row 50% uniform">
-			<div class="4u"><span class="image fit"><img src="assets/edge192x128.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/mpi_image192x128.jpg" alt="" /></span></div>
-			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="assets/edge512x384.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/mpi_image512x384.jpg" alt="" /></span></div>
-			<!-- Break -->
-			<div class="4u"><span class="image fit"><img src="assets/edge768x768.jpg" alt="" /></span></div>
-			<div class="4u"><span class="image fit"><img src="assets/mpi_image768x768.jpg" alt="" /></span></div>
-		</div>
-		</div>
+				<div class="row 50% uniform">
+					<div class="4u"><span class="image fit"><img src="assets/edge192x128.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/mpi_image192x128.jpg" alt="" /></span></div>
+					<!-- Break -->
+					<div class="4u"><span class="image fit"><img src="assets/edge512x384.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/mpi_image512x384.jpg" alt="" /></span></div>
+					<!-- Break -->
+					<div class="4u"><span class="image fit"><img src="assets/edge768x768.jpg" alt="" /></span></div>
+					<div class="4u"><span class="image fit"><img src="assets/mpi_image768x768.jpg" alt="" /></span></div>
+				</div>
+			</div>
 		</a>
 		<div class="content">
 			<div class="inner">
