@@ -29,6 +29,10 @@ nav-menu: true
 	<table>
 		<tbody>
 			<tr>
+				<td>Sept 2020</td>
+				<td>First prize of university scholarship. The top 10% student in the Department of Mathematics</td>
+			</tr>
+			<tr>
 				<td>July 2018</td>
 				<td>Excellent Graduate in Beijing. Ranked 2nd in the Department of Mathematics</td>
 			</tr>
@@ -56,6 +60,7 @@ nav-menu: true
 <h2>Publications</h2>
 <ol>
 	<li><b>C. Cui</b>, Q. Zhang. Stable generalized finite element methods for elasticity crack problems. <i>Int J Numer Methods Eng</i>. 2020; 121: 3066-3082. <a href="https://doi.org/10.1002/nme.6347">https://doi.org/10.1002/nme.6347</a></li>
+	<li>Q. Zhang, <b>C. Cui</b>. Condensed generalized finite element method. <i>Numer Methods Partial Differential Eq</i>. 2020;1–22. <a href="https://doi.org/10.1002/num.22616">https://doi.org/10.1002/num.22616</a></li>
 </ol>
 
 <!-- Table -->
