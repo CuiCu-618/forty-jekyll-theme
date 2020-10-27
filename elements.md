@@ -110,7 +110,7 @@ nav-menu: true
 </ul>
 
 <ul class="actions">
-	<li><a href="cv_9.pdf" class="button icon fa-download">Curriculum Vitae</a></li>
+	<li><a href="cv.pdf" class="button icon fa-download">Curriculum Vitae</a></li>
 </ul>
 
 </div>
